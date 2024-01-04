@@ -21,14 +21,15 @@
     grid-row: 1/2;
     justify-content: flex-end;
     align-items :end;
-    font-size: 10em;
+    font-size: 5em;
+    background-color:darkgray
 }
 
 #ac {
     grid-column: 1/4;
     grid-row: 2/3;
     justify-content: start;
-    background-color: slategrey;
+    background-color: #708090;
 }
 
 #divide {
