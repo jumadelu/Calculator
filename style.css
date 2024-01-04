@@ -1,5 +1,5 @@
 #container {
-    background-color: lightslategray;
+    background-color: lightgray;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 2fr 1fr 1fr 1fr 1fr 1fr;
@@ -9,7 +9,7 @@
 
 .button {
     display: flex;
-    background-color: lightgrey;
+    background-color: slategrey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 5em;
     justify-content: center;
@@ -61,7 +61,7 @@
     grid-row: 4/5;
 }
 
-#fife {
+#five {
     grid-column: 2/3;
     grid-row: 4/5;
 }
